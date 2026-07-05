@@ -34,3 +34,8 @@ PGD attacks) and training efficiency (e.g., over twice as fast as
 multi-step PGD-based approaches), while maintaining superior
 Standard Accuracy in non-adversarial scenarios. The ARMA trained attribution model and the AMG18 dataset are publicly
 available at https://github.com/Yuxia-Sun/ARMA.
+
+## Repository Structure
+
+- `Model/` — trained model parameters (`ARMA.ckpt`)
+- `Samples/` — sample files for visualization
